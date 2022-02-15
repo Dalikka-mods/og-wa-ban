@@ -1,3 +1,9 @@
-# og-wa-ban
+# TOOL INSTALL ON TERMUX 
 
-1 dkdk
+1 apt update
+
+apt upgrade
+
+pkg install toilet -y
+
+git clone 
