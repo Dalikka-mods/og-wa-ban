@@ -1,18 +1,17 @@
 # TOOL INSTALL ON TERMUX 
+$ apt update & apt upgrade -y
 
-1 apt update
+$ pkg install toilet -y
 
-2 apt upgrade
+$ pkg install git -y
 
-3 pkg install toilet -y
+$  git clone https://github.com/Dalikka-mods/og-wa-ban.git
 
-4 git clone https://github.com/Dalikka-mods/og-wa-ban.git
+$ cd og-wa-ban
 
-5 cd wa-ban
+$ chmod +x *
 
-6 chmod +x *
-
-7 bash waban.sh
+$ bash og-wa-ban.sh
 
 😘create by DALIKKA MODS😂
 🥰 SUBSCRIBE NOW❤
