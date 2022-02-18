@@ -13,3 +13,4 @@ $ cd og-wa-ban
 $ chmod +x *
 
 $ bash og-wa-ban.sh
+
