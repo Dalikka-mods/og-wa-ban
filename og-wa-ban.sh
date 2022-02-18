@@ -1,4 +1,5 @@
-# TOOL INSTALL ON TERMUX 
+#TOOL INSTALL ON TERMUX 
+
 $ apt update & apt upgrade -y
 
 $ pkg install toilet -y
